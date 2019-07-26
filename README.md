@@ -1,6 +1,7 @@
 # Polytech
 
 <hr/>
+
 ## 1. Python1 관련 과제
 #### [문자열] 
   <pre> in_str = "       3      27      9          "  </pre>
