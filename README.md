@@ -33,3 +33,16 @@ print("이름: "+name+"   "+"나이: "+age)  </pre>
 영문자 소문자만 대상<br/>
 ascii="abcdefghijklmnopqrstuvwxyz"<br/>
 프로그램을 GitHub에 올리시오
+<hr/>
+
+## 3. Python1 관련 과제
+### [딕셔너리] 
+
+ASCII Code 값 : Bel-7, CR-13, ESC-27, 0-48, A-65, a-97 <br/>
+<pre>
+ascii_list = ['Bel','CR','ESC','0','A','a']
+code_list = [7,13,27,48,65,97]
+</pre>
+ 두개의 리스트를 이용하여 딕셔너리를 만들어 보시오<br/>
+ zip()함수 사용<br/>
+ 프로그램을 GitHub에 올리시오
