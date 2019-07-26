@@ -24,3 +24,12 @@ name = input("이름을 입력 : ")
 age = input("나이 입력 : ")
 print("이름: "+name+"   "+"나이: "+age)  </pre>
 <hr/>
+
+## 2. Python1 관련 과제
+#### [리스트] 
+
+# 문자열 ascii를 리스트로 만들고, 멤버를 입력하면 아스키 코드값을 출력하시오
+# 예) w를 입력하면 아스키코드 112를 출력
+
+ascii="abcdefghijklmnopqrstuvwxyz"
+프로그램을 GitHub에 올리시오
