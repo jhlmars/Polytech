@@ -14,8 +14,8 @@
  in_str을 Python 프로그램을 이용하여 새로운 문자열 new_str="3 9 27"로 만들어보시오.<br>
  GitHub에 올리시오
 <hr/>
-[Study] input( ) 파이썬 키보드 입력 받아들이기
-# 입력을 받아들이는 함수 : input()
+## [Study] input( ) 파이썬 키보드 입력 받아들이기
+## 입력을 받아들이는 함수 : input()
 <pre>
 name = input("이름을 입력 : ")
 age = input("나이 입력 : ")
